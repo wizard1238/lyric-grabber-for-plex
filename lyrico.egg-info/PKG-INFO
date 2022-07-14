@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: lyrico
+Version: 0.6.0
+Summary: A simple command-line lyrics downloader.
+Home-page: https://github.com/abhimanyuPathania/lyrico
+Author: Abhimanyu Pathania
+Author-email: abpindia1944@gmail.com
+License: MIT
+Keywords: lyrics audio foobar2000 tags mp3
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Operating System :: Microsoft
+Classifier: Operating System :: Unix
+License-File: LICENSE.md
+
+test
+
